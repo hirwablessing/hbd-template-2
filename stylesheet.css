@@ -1096,24 +1096,24 @@ audio {
 
 @media (min-width: 800px) {
 	.balloons {
-		width: 30px;
-		height: 67px;
-		background-size: 100px 183px;
+		width: 1px;
+		height: 1px;
+		background-size: 1px 1px;
 	}
 
 	.balloons h2 {
-		font-size: 20px;
+		font-size: 1px;
 	}
 }
 @media (min-width: 600px) {
 	.balloons {
-		width: 20px;
-		height: 50px;
-		background-size: 100px 183px;
+		width: 1px;
+		height: 1px;
+		background-size: 1px 1px;
 	}
 
 	.balloons h2 {
-		font-size: 15px;
+		font-size: 1px;
 	}
 }
 #b1,#b11 {
