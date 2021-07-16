@@ -1098,7 +1098,7 @@ audio {
 	.balloons {
 		width: 50px;
 		height: 95px;
-		background-size: 50px 95px;
+		background-size: auto;
 	}
 
 	.balloons h2 {
@@ -1109,7 +1109,7 @@ audio {
 	.balloons {
 		width: 35px;
 		height: 80px;
-		background-size: 35px 80px;
+		background-size: auto;
 	}
 
 	.balloons h2 {
