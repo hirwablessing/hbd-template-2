@@ -1281,7 +1281,7 @@ audio {
 .control-panel {
 	position: fixed;
 	bottom: 0;
-	padding:0px 0px 0px 0px;
+	padding:10px 0px 10px 0px;
 }
 #play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story {
 	display: none;
@@ -1304,6 +1304,16 @@ audio {
 	font-weight: bold;
 }
 
+@media (max-width: 800px) {
+	.message p{
+		font-size: 15px;
+	}
+}
+@media (max-width: 600px) {
+	.message p{
+		font-size: 15px;
+	}
+}
 .btn-primary {
         border-color: #466baf;
         padding: 10px;
