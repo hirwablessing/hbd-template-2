@@ -8,6 +8,7 @@ body {
 	transition:background-color linear 10s;
 	overflow-x:hidden;
 }
+
 .container {
 	display: none;
 }
@@ -1096,24 +1097,24 @@ audio {
 
 @media (max-width: 800px) {
 	.balloons {
-		width: 50px;
-		height: 95px;
-		background-size: 50px 95px;
+		width: 20px;
+		height: 35px;
+		background-size: 20px 35px;
 	}
 
 	.balloons h2 {
-		font-size: 20px;
+		font-size: 10px;
 	}
 }
 @media (max-width: 600px) {
 	.balloons {
-		width: 35px;
-		height: 80px;
-		background-size: 35px 80px;
+		width: 10px;
+		height: 18px;
+		background-size: 10px 18px;
 	}
 
 	.balloons h2 {
-		font-size: 20px;
+		font-size: 8px;
 	}
 }
 #b1,#b11 {
