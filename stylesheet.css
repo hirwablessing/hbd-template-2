@@ -1093,6 +1093,29 @@ audio {
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
 }
+
+@media (min-width: 800px) {
+	.balloons {
+		width: 30px;
+		height: 67px;
+		background-size: 100px 183px;
+	}
+
+	.balloons h2 {
+		font-size: 20px;
+	}
+}
+@media (min-width: 600px) {
+	.balloons {
+		width: 20px;
+		height: 50px;
+		background-size: 100px 183px;
+	}
+
+	.balloons h2 {
+		font-size: 15px;
+	}
+}
 #b1,#b11 {
 	background-image: url('b1.png');
 }
