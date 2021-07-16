@@ -1094,7 +1094,7 @@ audio {
 	display: none;
 }
 
-@media (min-width: 800px) {
+@media (max-width: 800px) {
 	.balloons {
 		width: 1px;
 		height: 1px;
@@ -1105,7 +1105,7 @@ audio {
 		font-size: 1px;
 	}
 }
-@media (min-width: 600px) {
+@media (max-width: 600px) {
 	.balloons {
 		width: 1px;
 		height: 1px;
