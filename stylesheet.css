@@ -1110,6 +1110,7 @@ audio {
 	.balloons {
 		width: 10px;
 		height: 18px;
+		padding: auto;
 		background-size: 10px 18px;
 	}
 
